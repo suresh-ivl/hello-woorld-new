@@ -1,3 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One  </h3>
+<h1> Hello, Suresh !!! </h1>
+<h1> Welcome to AWS</h1>
